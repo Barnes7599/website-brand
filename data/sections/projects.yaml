@@ -1,0 +1,100 @@
+# section information
+section:
+  name: Projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: NBA Field Goal Percentage
+  logo: images/projects/tableau.png
+  role: Developer
+  timeline: "March 2020"
+  #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://public.tableau.com/views/NBAStatisticsFG/NBAStats?:language=en&:display_count=y&:origin=viz_share_link"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Created Tableau dashboard focusing on NBA field goal percentage for the 2018, 2019, 2020 NBA seasons and allowing the user to explore basic statistical concepts
+  tags: ["academic", "Tableau", "dashboard"]
+
+- name: Washington, DC- Crime Statistics
+  logo: images/projects/tableau.png
+  role: Developer
+  timeline: "March 2020"
+  #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://public.tableau.com/views/WashingtonDCCrimeStats_15810257686150/WashingtonDCCrimeDashboard?:language=en&:display_count=y&:origin=viz_share_link"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Statistics presented are based on preliminary DC index crime data reported from February 5, 2018 to Febuary 5, 2020
+  tags: ["academic", "Tableau", "dashboard"]
+  
+- name: US Flights November 2019
+  logo: images/projects/tableau.png
+  role: Developer
+  timeline: "Jan 2020"
+  #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://public.tableau.com/views/USFlightsNovember2019/USFlightsNov2019?:language=en&:display_count=y&:origin=viz_share_link"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Delays from origin to destination of US air carriers in November 2019
+  tags: ["professional", "Tableau", "dashboard"]
+  
+- name: So...What is your story?
+  logo: images/projects/tableau.png
+  role: Developer
+  timeline: "Feb 2020"
+  #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://public.tableau.com/views/So___Whatisyourstory/Whatisyourstory?:language=en&:display_count=y&:origin=viz_share_link"
+  summary: A visual story of my journey in the military
+  tags: ["hobby", "Tableau", "dashboard"]
+  
+- name: 2016 Democratic and Republican Primary Candidates Spending
+  logo: images/projects/tableau.png
+  role: Developer
+  timeline: "Aug 2019"
+  #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://public.tableau.com/views/2016DemocraticandRepublicanPrimaryCandidatesSpending/2016PrimariesSpending?:language=en&:display_count=y&:origin=viz_share_link"
+  summary: Democratic and Republican Spending by Primary Candidates- Bump Chart
+  tags: ["hobby", "Tableau", "dashboard"]
+  
+- name: Seagrass Ecosystem
+  logo: images/projects/Flourish.png
+  role: Developer
+  timeline: "Jan 2020"
+  #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://public.flourish.studio/visualisation/1269398/"
+  summary: A visual representation of the Winter's Seagrass Foodweb 
+  tags: ["professional", "Flourish"]
+
+- name: An Analysis of factors affecting affiliation in the Marine Corps Reserves
+  role: Team Lead
+  timeline: "2014"
+  url: "https://calhoun.nps.edu/handle/10945/44683"
+  summary: The purpose of this study is to examine key factors in Marine Corps Reserve turnover in order to better understand reservists’ decisions to affiliate in the United States Marine Corps. Across the Marine Force Reserve there are communities, occupational fields, and grades with persistent manning shortfalls in non–obligor populations. Non– obligor reservists are those who serve at their own discretion, with each individual reservist having well–developed rationale and reasons for affiliating with a reserve unit. Monetary incentives are the primary stimulus employed to prompt reservists to affiliate and fill billets in units where there are persistent shortfalls. Money has had a positive impact, but the utilization of monetary incentives is not based upon a deep understanding of the reservists’ underlying motivations. This study explores individual non–obligor reservist motivations and rationales for affiliating to provide initial insights and a framework for future research. This study conducted a conceptual review of academic and military literature and six semi–structured telephone interviews in order to develop a predictive conceptual model of USMCR affiliation, allowing for more efficient targeting of retention methods and the development of non–monetary incentives.
+  tags: ["academic","research"]
+  
+- name: A Mixed-Methods Analysis of Embeddedness and Affiliation in the U.S. Marine Corps Reserves
+  role: Researcher
+  timeline: "2015"
+  url: "https://calhoun.nps.edu/handle/10945/48660"
+  summary: Despite years of research, much remains unknown about the drivers of retention and turnover in specific contexts and, with very few exceptions, scholars have not focused on the Reserves. This study contributes to an understanding of the drivers of retention and turnover in specific contexts by exploring what drives affiliation (retention) and turnover in the USMC Reserves. This study utilizes an exploratory sequential mixed-methods design, analyzing qualitative interview data and quantitative survey data to identify important drivers of affiliation among USMC Reservists and develop a context-specific predictive model, which is then tested. Results support the model and provide an underlying logic consistent with the embeddedness construct. Together, the qualitative and quantitative phases of this study determine primary drivers of affiliation and turnover among USMC Reservists and extend understanding and conceptualization of embeddedness to the context of the USMCR.
+  tags: ["academic","research"]
+  
+- name: Embededdness and turnover intentions in extra roles- a mixed methods analysis of the United States Marine Corps Reserves
+  role: Researcher
+  timeline: "2017"
+  url: "http://hdl.handle.net/10945/55175"
+  summary: The purpose of this paper is to investigate the drivers of turnover intention in extra roles. Design/methodology/approach – This mixed-methods study began with a qualitative analysis of interviews of US Marine Corps reservists, which identified drivers of turnover and suggested a predictive model and hypotheses, tested with a subsequent quantitative analysis. Findings – The results show that relations, meaning, and role conflict predict embeddedness in the US Marine Corps Reserve (USMCR), which is negatively related to turnover intentions. The sub-dimensions of the three drivers are clarified. Research limitations/implications – The research contributes to understanding the antecedents of embeddedness and turnover in extra roles. It also highlights extra roles as a source of role conflict. This study was limited to the USMCR, one extra role. All participants in the qualitative phase of the study were male officers. Although the quantitative study included enlisted and officers, men were still more strongly represented. The results should be replicated across different types of extra roles and should include different job types and personal characteristics. Originality/value – This study develops and tests a predictive model of embeddedness and turnover in the understudied context of salient extra roles. It clarifies antecedents of embeddedness in an extra role context and indicates that salient extra roles may be an additional source of role conflict in people’s lives.
+  tags: ["academic","research"]
+
+
+
+ 

@@ -1,0 +1,68 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Business Intillgence | Data Visualization Engineer
+# your company information
+company:
+  name: Design-Alytics
+  url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Through structured problem solving, requirements gathering, data analysis and business intelligence , I assist executives using data to transform business processes and guide decision-making. I build and lead complex teams and individuals to deliver large-scale projects, beginning from the discovery phase through execution, driving success across business analytics, workforce capitalization, and people analytics workstreams. My 20+ years of military leadership experience, coupled with my expertise in data visualization, story-telling and organizational development, positions me to assist companies in transforming their business to meet future needs.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "barnes7599@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Barnes7599"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/j-barnes/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/Barnes7599"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 90
+  color: blue
+- name: Data Analytics
+  percentage: 95
+  color: yellow
+- name: Management
+  percentage: 95 
+  color: pink
+- name: Finance
+  percentage: 90
+  color: green
+- name: People Analytics
+  percentage: 85
+  color: sky
+- name: Visualization
+  percentage: 95
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

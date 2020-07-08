@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- designation: Senior BI Developer and Data Visualization Engineer
+  company:
+    name: CACI
+    url: "https://www.caci.com/"
+    location: Stafford, VA
+    # company overview
+    overview: Led an interdisciplinary team of interactive data visualization designers, developers, product managers, and product owners in a fast-paced, agile environment for the Department of Veteran Affairs -National Cemetery Administration.
+  start: Jul 2019
+  # don't provide end date if you are currently working there. It will be replaced by "Present"
+  # end: Dec 2020
+  # give some points about what was your responsibilities at the company.
+  responsibilities:
+  - Responsible for managing, developing, implmenting and customizing interactive infographics, reports and dashboards.
+  - Manage the technical specifications in order to translate product concepts and wireframes into sophisticated, creative, and visually engaging designs and data visualizations.
+  - Lead the development of visual analytical applications from wireframe and storyboards to complete production-ready applications.
+
+- designation: Manager, Business Analytics (Fiscal and Entitlements)
+  company: 
+    name: Manpower Management Integration Branch, USMC
+    url: "https://www.preexample.com"
+    location: Quantico, VA
+    overview: Led cross-functional human resource, information technology and financial analysts; Responsible for integration, enablement, analysis and KPI frameworks for data driven enhancements to human capital.
+  start: March 2016
+  end: Jul 2019
+  responsibilities:
+  - Analyzed large and complex multi-year personnel data using business analytics software to inform strategic plans and solutions for complex business objectives.
+  - Skillfully provided trend analysis and graphical representation of business unit success through developed KPIs across the human resource development process generating executive insight and financial planning of critical programs. 
+  - Developed and led a proof of concept strategy for business intelligence software, included R Server, Tableau desktop and Tableau server leading to the creation of organization wide real-time dashboards and business intelligence tools best practices.
+
+- designation: Budget and Execution Program Manager
+  company:
+    name: Manpower Management, USMC
+    url: "https://www.intern.com"
+    location: Quantico, VA
+    overview: Managed fiscal entitlements and program operations related to analytics, forecasting, budgeting and execution of personnel relocation funding in excess of $450M annually. 
+  start: Dec 2014
+  end: Mar 2016
+  responsibilities:
+  - Managed infrastructure changes to personnel support systems and engineering change proposals to enhance the accuracy of fiscal obligations as it relates to personnel relocation. 
+  - Developed a systematic process that resulted in more efficient methodologies of collecting, recording and processing over $900K pay entitlements and saving 1,040 man-hours over a 4-year period.
+  - Managed cross-cutting manpower spending accounts for eight branches over $2.1M annually in fiscal resources resulting in an uninterrupted operational travel requirement. 
+
+- designation: F/A-18D Pilot, Technical Projects Manager
+  company:
+    name: Marine Aircraft Group-11, USMC
+    url: "https://www.intern.com"
+    location: Quantico, VA
+    overview: Managed a diverse workforce in multiple areas of operational support to include embarkation and logistics, communications and life support systems. Led flight crews on numerous high-risk flight missions utilizing critical thinking, training and situational awareness to safely conduct operations and ensure mission accomplishment.  
+  start: May 2009
+  end: Jun 2013
+  responsibilities:
+  - Refined the communication network via updated tracking software contributing to over 800 mishap free flights, directly translating to higher readiness rates and cost avoidance.  
+  - Coordinated with multiple agencies, directed and managed the movement of 187 personnel and 71 tons of cargo over a distance of 8700 miles; expert logistics acumen led to the safe and timely arrival of all personnel and equipment allowing for immediate employment of critical assets. 
+  - Led coordination efforts between fiscal, maintenance, administration and heavy equipment support service representatives to ensure all routine and unforeseen logistical duties were completed on time and under budget. 
