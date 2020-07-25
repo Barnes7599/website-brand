@@ -27,7 +27,7 @@ params:
   background: "images/background.jpg"
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hossainemruz/toha-example-site
+  gitRepo: https://github.com/Barnes7599/website-brand
 
   # specify whether you want to write blog post or not
   enableBlogPost: true
@@ -41,14 +41,14 @@ params:
   # some information about you
   author:
     name: "Jason Barnes"
-    nickname: "NATS"
-    image: "images/avatar.png"
+    nickname: "Jason"
+    image: "images/avatar-1.png"
     # give your some contact information. they will be used in the footer
     contactInfo:
       email: "barnes7599@gmail.com"
-      phone: "(951)293-3849"
+      phone: "951-293-3849"
     # a summary of what you do
     summary:
-    - Data Visualization
-    - Data Analytics
+    - Data  Analytics and Visualization
     - Business Intelligence
+    - Policy and Compliance
